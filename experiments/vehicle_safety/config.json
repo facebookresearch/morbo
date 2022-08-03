@@ -1,0 +1,14 @@
+{
+    "dim": 5,
+    "max_evals": 200,
+    "evalfn": "VehicleSafety",
+    "n_initial_points": 20,
+    "batch_size": 1,
+    "min_tr_size": 4,
+    "max_reference_point": [
+      -1698.549438,
+      -11.205659393,
+      -0.2864599382
+    ],
+    "verbose": true
+  }

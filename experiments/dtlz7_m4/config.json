@@ -1,0 +1,15 @@
+{
+    "dim": 100,
+    "max_evals": 2000,
+    "evalfn": "DTLZ5",
+    "n_initial_points": 200,
+    "batch_size": 50,
+    "min_tr_size": 30,
+    "max_reference_point": [
+      -10,
+      -10,
+      -10,
+      -10
+    ],
+    "verbose": true
+  }

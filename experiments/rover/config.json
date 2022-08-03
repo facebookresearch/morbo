@@ -1,0 +1,13 @@
+{
+    "dim": 60,
+    "max_evals": 2000,
+    "evalfn": "rover",
+    "n_initial_points": 200,
+    "batch_size": 50,
+    "min_tr_size": 200,
+    "max_reference_point": [
+      0,
+      -0.5
+    ],
+    "verbose": true
+  }
