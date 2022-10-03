@@ -7,7 +7,7 @@ This is the code associated with the paper "[Multi-Objective Bayesian Optimizati
 Please cite our work if you find it useful.
 
     @InProceedings{pmlr-v162-daulton22a,
-    title = 	 {Proceedings of the thirty-eighth conference on Uncertainty in Artificial Intelligence — Preface},
+    title = 	 {Multi-Objective Bayesian Optimization over High-Dimensional Search Spaces},
     author =       {Daulton, Samuel and Eriksson, David and Balandat, Maximilian and Bakshy, Eytan},
     booktitle = 	 {Proceedings of the Thirty-Eighth Conference on Uncertainty in Artificial Intelligence},
     year = 	 {2022},
